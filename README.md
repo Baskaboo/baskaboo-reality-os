@@ -35,7 +35,7 @@ The Quantum World functions as the Power Source, while the Physical World operat
   
 ---
 
-![Everything 2](https://github.com/user-attachments/assets/e1666af6-9e70-47a5-89a4-b3719c07cea7)
+![We are](https://github.com/user-attachments/assets/7d4dc06c-b0c6-41ac-bcfa-c84a6a21ffe9)
 
 ---
 
