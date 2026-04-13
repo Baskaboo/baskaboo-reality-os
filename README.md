@@ -19,6 +19,10 @@ What you Want × (How you Remember)² = What you Must × (How you Live)²
 
 ---
 
+![World as a circuit](https://github.com/user-attachments/assets/cba47761-dc1d-40e6-aca3-3dcedca5dad5)
+
+---
+
 ![Everything 2](https://github.com/user-attachments/assets/e1666af6-9e70-47a5-89a4-b3719c07cea7)
 
 ---
