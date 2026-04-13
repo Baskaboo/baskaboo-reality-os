@@ -162,7 +162,7 @@ Your entire system quadruples in effectiveness!
 | Domain | PITS (Fire) | MITS (Earth) | KLOP (Water) | LARAM (Air) |
 |--------|-------------|--------------|--------------|-------------|
 | **Freud** | Id | Superego | Ego | **Essence*** |
-| **Schopenhauer** | Will to Live | Representation | Compassion | **Asceticism*** |
+| **Schopenhauer** | Will to Live | Representation | Compassion | Asceticism |
 | **Hegel** | Thesis | Antithesis | Synthesis | **Anamnesis*** |
 
 **\*Asterisk = Baskaboo adds the missing 4th term to Western theories**
