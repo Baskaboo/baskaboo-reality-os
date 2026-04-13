@@ -4,7 +4,8 @@
 
 ---
 
-![FIRE x EARTH](https://github.com/user-attachments/assets/96283372-b473-46e9-bcec-807fb8204827)
+![balance Nature](https://github.com/user-attachments/assets/c45d6128-c01f-4f3e-9497-97acbe387fc3)
+
 
 ---
 
