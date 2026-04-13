@@ -4,7 +4,7 @@
 
 ---
 
-![FIRE x EARTH 2](https://github.com/user-attachments/assets/11e65320-7d4d-4ef0-8b6d-404cec49de94)
+![Fire Earth Water Air](https://github.com/user-attachments/assets/acd68f35-0237-4063-a6b5-6cd1a358fee6)
 
 ---
 
