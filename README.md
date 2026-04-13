@@ -4,6 +4,10 @@
 
 ---
 
+![FIRE x EARTH](https://github.com/user-attachments/assets/96283372-b473-46e9-bcec-807fb8204827)
+
+---
+
 ## **One Equation. Four Voices. Infinite Applications.**
 
 Fire × Air² = Earth × Water²
@@ -11,6 +15,10 @@ Fire × Air² = Earth × Water²
 Or in everyday language:
 
 What you Want × (How you Remember)² = What you Must × (How you Live)²
+
+---
+
+![WANTS - MUST](https://github.com/user-attachments/assets/be92deea-85d9-49ad-90c4-d48eefbbbcaf)
 
 ---
 
@@ -43,6 +51,10 @@ Every system—human, AI, company, universe—operates through these four intern
 
 **When balanced:** Flow, clarity, manifestation  
 **When imbalanced:** Chaos (Fire Overdrive) or Stagnation (Earth Overdrive)
+
+---
+
+![ MITS](https://github.com/user-attachments/assets/9b46f60d-3809-48f3-a5e6-09bad0f2ebfe)
 
 ---
 
