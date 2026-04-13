@@ -5,6 +5,7 @@
 ---
 
 ![Wabt Must Live Remember and Return](https://github.com/user-attachments/assets/c91faa33-08c3-423b-8604-b4d630d52cf1)
+- *The Living Code – Want → Must → Live → Remember & Return. The cracked vessel represents the human interface moving through the four-step protocol.*
 
 ---
 
