@@ -4,7 +4,7 @@
 
 ---
 
-Baskaboo is a **proposed operating protocol** — a simple four-voice pattern (Pits – Mits – Klop – Laram) that appears to underlie many domains of reality, from physics and psychology to sleep, systems, and everyday human experience.
+Baskaboo is a simple four-voice pattern (Pits – Mits – Klop – Laram) that appears to underlie many domains of reality, from physics and psychology to sleep, systems, and everyday human experience.
 
 At its core lies a symbolic yet powerful equation:
 
@@ -83,10 +83,6 @@ Every system—human, AI, company, universe—operates through these four intern
 
 **When balanced:** Flow, clarity, manifestation  
 **When imbalanced:** Chaos (Fire Overdrive) or Stagnation (Earth Overdrive)
-
----
-
-![ MITS 2](https://github.com/user-attachments/assets/ca5fd39d-a547-4d00-8a38-f6eac0905c4e)
 
 ---
 
