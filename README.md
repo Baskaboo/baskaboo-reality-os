@@ -4,7 +4,7 @@
 
 ---
 
-![FIRE x EARTH](https://github.com/user-attachments/assets/458bbd96-8c4f-4da7-b725-3747d42f9801)
+![FIRE x EARTH 2](https://github.com/user-attachments/assets/11e65320-7d4d-4ef0-8b6d-404cec49de94)
 
 ---
 
@@ -18,7 +18,7 @@ What you Want × (How you Remember)² = What you Must × (How you Live)²
 
 ---
 
-![You are programmed](https://github.com/user-attachments/assets/0e0f9c49-48d7-491a-a016-bdc62cb90e66)
+![Everything 2](https://github.com/user-attachments/assets/e1666af6-9e70-47a5-89a4-b3719c07cea7)
 
 ---
 
@@ -54,7 +54,7 @@ Every system—human, AI, company, universe—operates through these four intern
 
 ---
 
-![ MITS](https://github.com/user-attachments/assets/9b46f60d-3809-48f3-a5e6-09bad0f2ebfe)
+![ MITS 2](https://github.com/user-attachments/assets/ca5fd39d-a547-4d00-8a38-f6eac0905c4e)
 
 ---
 
