@@ -18,7 +18,7 @@ What you Want × (How you Remember)² = What you Must × (How you Live)²
 
 ---
 
-![WANTS - MUST](https://github.com/user-attachments/assets/be92deea-85d9-49ad-90c4-d48eefbbbcaf)
+![You are programmed](https://github.com/user-attachments/assets/f557fe34-6603-496a-86a5-422afbcbb7e7)
 
 ---
 
