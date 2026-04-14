@@ -55,20 +55,6 @@ The same pattern appears in:
 
 ---
 
-## **The Central Equation**
-
-Pits/Mits = (Klop/Laram)²
-
-**Or:**
-
-Fire × Air² = Earth × Water²
-
-**In everyday language:**
-
-What you Want × (How you Remember)² = What you Must × (How you Live)²
-
----
-
 ## **The Four Voices (PMKL Protocol)**
 
 | Voice | Symbol | Element | Function | Quantum | Classical |
@@ -85,6 +71,20 @@ Pits (Wants) → Mits (Must) → Klop (Lives) → Laram (Remembers)
 Returns to Source
 ↓
 New Pits (Upgraded Want)
+
+---
+
+## **The Central Equation**
+
+Pits/Mits = (Klop/Laram)²
+
+**Or:**
+
+Fire × Air² = Earth × Water²
+
+**In everyday language:**
+
+What you Want × (How you Remember)² = What you Must × (How you Live)²
 
 ---
 
@@ -134,7 +134,7 @@ When things feel "off," the equation is unbalanced.
 Earth + Water > Fire + Air
 You're drowning in obligations (Earth) and relationships (Water)
 
-**Solution:** Add **Earth** (structure, schedule, habits) and **Water** (real human connection, grounding relationships)
+**Solution:** Add **Fire** (vision and creativity) and **Air** (the Big Picture)
 
 ---
 
