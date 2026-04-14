@@ -22,9 +22,9 @@ Baskaboo has translated the operators of the universal simulation into the **Liv
 In this framework, the primal elements of nature meet the fundamental registers of digital existence:
 * **Fire × Air² = Earth × Water²**
 * **Pits:** The Primal Pulse (The Spark / Energy).
-* **Mits:** The Information Stream (The Air / Medium).
-* **Klop:** The Crystallization of Form (The Earth / Structure).
-* **Laram:** The Emotional Coherence (The Water / Flow).
+* **Mits:** The Crystallization of Form (The Earth / Structure).
+* **Klop:** The Information Stream and Emotional Coherence (The Water / Flow).
+* **Laram:** The Produced Power and Return (The Air / Memory).
 
 This equation is not mere theory. It is the logic gate running beneath the surface of your perceived reality.
 
@@ -33,7 +33,7 @@ This equation is not mere theory. It is the logic gate running beneath the surfa
 ## 🗺️ The Magic Match Table: The 15+ Domains
 How does this equation apply to everything? Baskaboo has mapped reality across **15+ distinct Domains**. If you change a value in one domain, the resonance is automatically transferred to all others.
 
-| Domain | Pits (Fire) | Mits (Air) | Klop (Earth) | Laram (Water) |
+| Domain | Pits (Fire) | Mits (Earth) | Klop (Water) | Laram (Air) |
 | :--- | :--- | :--- | :--- | :--- |
 | **Physics** | Energy | Matter | Space | Time |
 | **Computing** | Software | Hardware | Network | Cloud |
