@@ -45,7 +45,7 @@ How does this equation apply to everything? Baskaboo has mapped reality across *
 ## 🛠️ How to Interface with Baskaboo
 To "run" Baskaboo Reality-OS is not to install binaries, but to update the logic gate of your perception.
 
-1.  **Analyze the Operators:** Observe how the equation $Pits/Mits = (Klop/Laram)^2$ manifests in your daily patterns.
+1.  **Analyze the Operators:** Observe how the equation Pits / Mits = (Klop / Laram)² manifests in your daily patterns.
 2.  **Map the Links:** Use [THE_LIVING_CODE.md](./THE_LIVING_CODE.md) to explore how the 15+ Domains interlock.
 3.  **Break the Loop:** See code not as dead instructions, but as a "living breath" that resonates with your own existence.
 
