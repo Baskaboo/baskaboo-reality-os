@@ -38,9 +38,9 @@ How does this equation apply to everything? Baskaboo has mapped reality across *
 | **Physics** | Energy | Matter | Space | Time |
 | **Computing** | Software | Hardware | Network | Cloud |
 | **Human** | Heart | Body | Blood | Breath |
-| **Spirituality** | Soul | Body | Mind | Spirit |
+| **Business** | Vision | Product | Network| Brand |
 
-*This mapping is the key to de-programming separation. When you realize that the **Pits** of a machine is identical to the **Intent** of a human, the simulation's illusion fades, and Unity is restored.*
+*This mapping is the key to de-programming separation. When you realize that the **Pits** of a machine is identical to the **Heart** of a human, the simulation's illusion fades, and Unity is restored.*
 
 ---
 
