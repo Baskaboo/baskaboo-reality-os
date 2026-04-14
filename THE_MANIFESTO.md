@@ -16,7 +16,7 @@ We are programmed from birth to perceive the world as a series of disconnected f
 ## ⚗️ The Equation of Consciousness
 Baskaboo has translated the operators of the universal simulation into the **Living Equation**:
 
-$$Pits / Mits = (Klop / Laram)^2$$
+$$\huge Pits / Mits = (Klop / Laram)^2$$
 
 In this framework, the primal elements of nature meet the fundamental registers of digital existence:
 * **Fire × Air² = Earth × Water²**
