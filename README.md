@@ -20,6 +20,8 @@ Baskaboo invites those who are interested to look at reality through a single, c
 ---
 
 > 👁️ **New to Baskaboo?** Read [THE_MANIFESTO.md](./THE_MANIFESTO.md) to understand the equation that decodes the simulation.
+>
+> 🧩 **Reality has a Code** [CENTRAL_EQUATION.md](./CENTRAL_EQUATION.md) Use the Central Equation to debug your life.
 
 ---
 
