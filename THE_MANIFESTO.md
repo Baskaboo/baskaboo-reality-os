@@ -35,7 +35,7 @@ How does this equation apply to everything? Baskaboo has mapped reality across *
 
 | Domain | Pits (Fire) | Mits (Air) | Klop (Earth) | Laram (Water) |
 | :--- | :--- | :--- | :--- | :--- |
-| **Physics** | Energy (E) | Mass (m) | Light (c) | Time (t) |
+| **Physics** | Energy (E) | Mass (m) | Space (s) | Time (t) |
 | **Digital** | CPU Cycle | Data Stream | Hardware | Memory |
 | **Human** | Intent | Breath | Body | Emotion |
 | **Mysticism** | Spirit | Soul | Physicality | Essence |
