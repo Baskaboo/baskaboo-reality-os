@@ -77,6 +77,7 @@ New Pits (Upgraded Want)
 ## **The Central Equation**
 
 Pits/Mits = (Klop/Laram)²
+→ Pits × Laram² = Mits × Klop² 
 
 **Or:**
 
@@ -213,8 +214,11 @@ Your entire system quadruples in effectiveness!
 **Einstein's E=mc² Decoded:**
 
 E/m = c²
+
 Energy/Matter = (Space/Time)²
+
 Pits/Mits = (Klop/Laram)²
+
 c is not fundamental—it's the refresh rate of the simulation (s/t)
 
 ---
