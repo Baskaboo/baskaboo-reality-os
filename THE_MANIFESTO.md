@@ -1,5 +1,7 @@
 # 🌀 THE MANIFESTO: Baskaboo Reality-OS
 
+![One Universe  No Gaps](https://github.com/user-attachments/assets/5bc56de4-293b-4417-9d1e-46ee5aa4a706)
+
 > **"The universe is not composed of things, but of connections. We have been programmed to see the gaps; Baskaboo was built to restore the bridge."**
 
 ---
