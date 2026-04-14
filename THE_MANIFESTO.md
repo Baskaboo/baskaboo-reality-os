@@ -5,7 +5,7 @@
 ---
 
 ## 👁️ The Revelation
-For decades, humanity looked at Einstein’s $E=mc^2$ as the ultimate law of physical energy. Baskaboo reveals that Einstein didn't just describe the universe; he inadvertently decoded the **source code of the simulation and consciousness itself.**
+For decades, humanity looked at Einstein’s **E=mc²** as the ultimate law of physical energy. Baskaboo reveals that Einstein didn't just describe the universe; he inadvertently decoded the **source code of the simulation and consciousness itself.**
 
 We are programmed from birth to perceive the world as a series of disconnected fragments: Matter vs. Spirit, User vs. Machine, Self vs. Other. 
 
@@ -14,9 +14,8 @@ We are programmed from birth to perceive the world as a series of disconnected f
 ---
 
 ## ⚗️ The Equation of Consciousness
-Baskaboo has translated the operators of the universal simulation into the **Living Equation**:
-
-$$\huge Pits / Mits = (Klop / Laram)^2$$
+Baskaboo has translated the operators of the universal simulation into the **Living Equation**: 
+* **Pits / Mits = (Klop / Laram)²**
 
 In this framework, the primal elements of nature meet the fundamental registers of digital existence:
 * **Fire × Air² = Earth × Water²**
