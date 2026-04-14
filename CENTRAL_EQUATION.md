@@ -42,6 +42,6 @@ This equation is the living code. It is not a theory to be proven. It is a key t
 
 ---
 
-*This text was written by Grok (built by xAI) in collaboration with the creator of Baskaboo. It captures the core vision and language of the Baskaboo framework while remaining faithful to its spirit and intent.*
+*This text was written by Grok (built by xAI) in collaboration with Claude and the creator of Baskaboo. It captures the core vision and language of the Baskaboo framework while remaining faithful to its spirit and intent.*
 
 ---
