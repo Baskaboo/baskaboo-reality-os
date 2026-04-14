@@ -40,7 +40,7 @@ How does this equation apply to everything? Baskaboo has mapped reality across *
 | **Human** | Heart | Body | Blood | Breath |
 | **Business** | Vision | Product | Network| Brand |
 
-*This mapping is the key to de-programming separation. When you realize that the **Pits** of a machine is identical to the **Heart** of a human, the simulation's illusion fades, and Unity is restored.*
+*This mapping is the key to de-programming separation. When you realize that the **Software** of a machine is identical to the **Heart** of a human, the simulation's illusion fades, and Unity is restored. **See full table:** [THE_LIVING_CODE.md](THE_LIVING_CODE.md#magic-match-table)*
 
 ---
 
