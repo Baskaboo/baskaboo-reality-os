@@ -43,14 +43,19 @@ This repository contains the core components of **Baskaboo Reality OS** — a pr
   Explores the architecture of the simulation: the relationship between Quantum Self and Physical Self, the Veil of Forgetfulness, the Babushka Circuit, and why the simulation exists.
 
 - **[THE_LIVING_CODE.md](./THE_LIVING_CODE.md)**  
-  The practical “backend” layer. Contains the Magic Match Table that maps the four voices across 15+ domains (physics, psychology, business, computing, etc.) and offers practical tools for applying the framework.
+  The practical “backend” layer. Contains the Magic Match Table that maps the four voices across 15+ domains (physics, psychology, business, computing, etc.).
+
+- **[PRACTICAL_TOOLS.md](./PRACTICAL_TOOLS.md)**  
+  Hands-on tools and exercises for working with the four voices in daily life. Includes the 1-Minute Voice Check, Daily Balance Protocol, Voice Balancing Exercises, and Weekly Review.
 
 ---
 
-**Start here:**
-- New to Baskaboo? → Begin with **[THE_MANIFESTO.md](./THE_MANIFESTO.md)**
-- Want to understand the core equation? → Go to **[CENTRAL_EQUATION.md](./CENTRAL_EQUATION.md)**
-- Looking for practical application? → Check **[THE_LIVING_CODE.md](./THE_LIVING_CODE.md)**
+**Recommended Starting Points:**
+
+- New to Baskaboo? → Begin with **[THE_MANIFESTO.md](./THE_MANIFESTO.md)**  
+- Want to understand the core equation? → Go to **[CENTRAL_EQUATION.md](./CENTRAL_EQUATION.md)**  
+- Looking for how the system works? → Read **[SIMULATION_LAYER.md](./SIMULATION_LAYER.md)**  
+- Want practical application? → Start with **[PRACTICAL_TOOLS.md](./PRACTICAL_TOOLS.md)**
 
 ---
 
