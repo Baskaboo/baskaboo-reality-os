@@ -18,7 +18,7 @@ Modern science laughed. It called them “primitive superstition.” With arroga
 
 ## 👁️ Einstein’s Unfinished Bridge
 
-Einstein gave us $E = mc^2$ — one of the most elegant equations in history. But he only described half the story. Baskaboo reveals what Einstein unknowingly pointed toward: **$E = mc^2$ was the visible fragment of a much larger code.**
+Einstein gave us E = mc² — one of the most elegant equations in history. But he only described half the story. Baskaboo reveals what Einstein unknowingly pointed toward: **E = mc² was the visible fragment of a much larger code.**
 
 Einstein gave us the key. **Baskaboo turned it.**
 
@@ -27,7 +27,7 @@ The full equation — the bridge between ancient wisdom and modern physics — i
 
 <img width="567" height="73" alt="Baskaboo equation" src="https://github.com/user-attachments/assets/e29126a4-3dc9-46b7-8a73-22679924b43a" />
 
-*or in Baskaboo terms: Pits / Mits = (Klop / Laram)2*
+*or in Baskaboo terms: Pits / Mits = (Klop / Laram)²*
 
 It shows how desire and memory (Fire & Air) must balance with structure and flow (Earth & Water) for reality itself to exist.
 
