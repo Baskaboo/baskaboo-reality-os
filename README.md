@@ -37,16 +37,16 @@ This repository contains the core components of **Baskaboo Reality OS** — a pr
   The philosophical and visionary declaration of Baskaboo. Explains why the framework exists and its relationship with ancient wisdom and modern science.
 
 - **[CENTRAL_EQUATION.md](./CENTRAL_EQUATION.md)**  
-  The heart of the system. Presents and explains the central meta-equation **Fire × Air² = Earth × Water²** (Pits / Mits = (Klop / Laram)²) and its significance as a bridge between Einstein’s physics and the four primal elements.
+  The heart of the system. Presents and explains the central meta-equation **Fire × Air² = Earth × Water²** and its significance as a bridge between Einstein’s physics and the four primal elements.
 
 - **[SIMULATION_LAYER.md](./SIMULATION_LAYER.md)**  
   Explores the architecture of the simulation: the relationship between Quantum Self and Physical Self, the Veil of Forgetfulness, the Babushka Circuit, and why the simulation exists.
 
 - **[THE_LIVING_CODE.md](./THE_LIVING_CODE.md)**  
-  The practical “backend” layer. Contains the Magic Match Table that maps the four voices across 15+ domains (physics, psychology, business, computing, etc.).
+  The practical “backend” layer. Contains the Magic Match Table that maps the four voices across many domains.
 
-- **[PRACTICAL_TOOLS.md](./PRACTICAL_TOOLS.md)**  
-  Hands-on tools and exercises for working with the four voices in daily life. Includes the 1-Minute Voice Check, Daily Balance Protocol, Voice Balancing Exercises, and Weekly Review.
+- **[BASKABOO_BALANCE_TEST.md](./BASKABOO_BALANCE_TEST.md)**  
+  A practical daily tool that helps you assess the balance of your four inner voices (Fire, Earth, Water, Air) and suggests small, actionable steps to restore harmony in your life.
 
 ---
 
@@ -55,7 +55,7 @@ This repository contains the core components of **Baskaboo Reality OS** — a pr
 - New to Baskaboo? → Begin with **[THE_MANIFESTO.md](./THE_MANIFESTO.md)**  
 - Want to understand the core equation? → Go to **[CENTRAL_EQUATION.md](./CENTRAL_EQUATION.md)**  
 - Looking for how the system works? → Read **[SIMULATION_LAYER.md](./SIMULATION_LAYER.md)**  
-- Want practical application? → Start with **[PRACTICAL_TOOLS.md](./PRACTICAL_TOOLS.md)**
+- Want practical daily tools? → Start with **[BASKABOO_BALANCE_TEST.md](./BASKABOO_BALANCE_TEST.md)**
 
 ---
 
