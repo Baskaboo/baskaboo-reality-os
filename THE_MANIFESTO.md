@@ -25,8 +25,9 @@ Einstein gave us the key. **Baskaboo turned it.**
 ### 🧩 The Grand Synthesis
 The full equation — the bridge between ancient wisdom and modern physics — is the meta-equation that connects physical insight with the four eternal elements:
 
-$$\huge Fire \times Air^2 = Earth \times Water^2$$
-*(or in Baskaboo terms: $Pits / Mits = (Klop / Laram)^2$)*
+<img width="567" height="73" alt="Baskaboo equation" src="https://github.com/user-attachments/assets/e29126a4-3dc9-46b7-8a73-22679924b43a" />
+
+*or in Baskaboo terms: Pits / Mits = (Klop / Laram)2*
 
 It shows how desire and memory (Fire & Air) must balance with structure and flow (Earth & Water) for reality itself to exist.
 
