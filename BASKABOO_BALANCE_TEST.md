@@ -46,7 +46,7 @@ Using the ratings, calculate and interpret:
 - Fire / Earth compared to (Water / Air)² → balance between Chaos and Order
 - Fire × Air² compared to Earth × Water² → connection between Physical Self and Higher Self
 
-Explain clearly where the imbalance lies.
+Explain clearly and neutrally where the current imbalance lies, without labeling any voice as good or bad.
 
 **Step 2: Speak to the Four Voices**  
 Help the user feel how each voice is showing up right now. Use warm, embodied language. Mention the natural weight: Air is lightest, then Fire, then Water, then Earth is heaviest.
