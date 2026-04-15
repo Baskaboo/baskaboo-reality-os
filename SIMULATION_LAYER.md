@@ -395,10 +395,6 @@ Quantum Simulator: "Acknowledged. Preparing v2.0."
 
 Not everyone upgrades at once.
 
-**The Split:**
-
-Not everyone upgrades at once.
-
 **This is not punishment—it's choice.**  
 You choose which version to run based on **which voice you listen to most.**
 
