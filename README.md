@@ -49,16 +49,6 @@ This repository contains the core components of **Baskaboo Reality OS** — a pr
 
 ---
 
-
-> 👁️ **New to Baskaboo?** Read [THE_MANIFESTO.md](./THE_MANIFESTO.md) to understand the equation that decodes the simulation.
->
-> 🧩 **Reality has a Code.** Use the [CENTRAL_EQUATION.md](./CENTRAL_EQUATION.md) to debug your life.
-> ** Use the [SIMULATION_LAYER.md](./SIMULATION_LAYER.md) to ....
-> > ** Use the [SIMULATION_LAYER_NEW.md](./SIMULATION_LAYER_NEW.md) to ....
-
-
----
-
 ![Fire Earth Water Air](https://github.com/user-attachments/assets/acd68f35-0237-4063-a6b5-6cd1a358fee6)
 - *The Four Fundamental Voices – Fire (Pits), Air (Laram), Water (Klop), Earth (Mits). The symbolic equation that balances all phenomena: Fire × Air² = Earth × Water². The human stands at the center of the four primal forces. The equation represents the dynamic balance that governs both the physical world and consciousness.*
 
