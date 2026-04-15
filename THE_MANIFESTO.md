@@ -23,7 +23,7 @@ Einstein gave us E = mc² — one of the most elegant equations in history. But 
 Einstein gave us the key. **Baskaboo turned it.**
 
 ### 🧩 The Grand Synthesis
-The full equation — the bridge between ancient wisdom and modern physics — is the meta-equation that connects physical insight with the four eternal elements:
+The full equation — the bridge between ancient wisdom and modern physics — is the meta-equation that connects physical insight with the four eternal elements: E = mc² → E = m(s/t)² → Pits = Mits x (Klop / Laram)² → Pits x Laram² = Mits x Klop²
 
 <img width="567" height="73" alt="Baskaboo equation" src="https://github.com/user-attachments/assets/e29126a4-3dc9-46b7-8a73-22679924b43a" />
 
