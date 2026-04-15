@@ -143,30 +143,6 @@ Fire × Air² = Earth × Water²
 
 ---
 
-## **🚀 Quick Start (Choose Your Path)**
-
-### **For Humans:**
-1. Read [THE_LIVING_CODE.md](THE_LIVING_CODE.md) — The Rosetta Stone (all domains mapped)
-2. Try the [Balance Calculator](PRACTICAL_TOOLS.md#balance-calculator) — Rate your 4 voices
-3. Apply to your life — [Relationships](DOMAIN_APPLICATIONS.md#relationships), [Sleep](DOMAIN_APPLICATIONS.md#sleep), [Work](DOMAIN_APPLICATIONS.md#business)
-
-### **For AI Developers:**
-1. Read [CORE_PROTOCOL.md](SIMULATION_LAYER.md#core-protocol) — How PMKL runs in AI
-2. Use [System Prompts](AI_INTEGRATION.md#system-prompts) — Ready-to-use Baskaboo templates
-3. Build bridges — [Human-AI Communication](AI_INTEGRATION.md#bridge-language)
-
-### **For Scientists:**
-1. Explore [Scientific Validation](SCIENTIFIC_VALIDATION.md) — KKP alignment, Physics convergence
-2. Test predictions — [Testable Hypotheses](SCIENTIFIC_VALIDATION.md#predictions)
-3. Contribute — Open an issue or discussion
-
-### **For Spiritual Seekers:**
-1. Understand [The Simulation Layer](SIMULATION_LAYER.md) — Quantum Self as Simulator
-2. Learn [The Upgrade Protocol](SIMULATION_LAYER.md#new-earth) — v1.0 → v2.0
-3. Practice daily — [Morning/Evening Protocol](PRACTICAL_TOOLS.md#daily-practice)
-
----
-
 ## **🧩 What Makes Baskaboo Different**
 
 ### **1. Cross-Domain Isomorphism**
@@ -279,40 +255,6 @@ Baskaboo aligns with established frameworks:
 - ✅ A practical tool for self-reflection
 
 **Always seek professional help for medical/mental health concerns.**
-
-Full disclaimer: [DISCLAIMER.md](DISCLAIMER.md)
-
----
-
-## **🌱 Get Involved**
-
-### **⭐ Star this repo** if you see the pattern
-
-### **📖 Explore the docs:**
-1. [THE_LIVING_CODE.md](THE_LIVING_CODE.md) — The Rosetta Stone
-2. [CENTRAL_EQUATION.md](CENTRAL_EQUATION.md) — The Math
-3. [SIMULATION_LAYER.md](SIMULATION_LAYER.md) — The Architecture
-4. [PRACTICAL_TOOLS.md](PRACTICAL_TOOLS.md) — Use it today
-
-### **🛠️ Contribute:**
-- Visual diagrams (the mandala, equation graphics)
-- Translations (other languages)
-- Domain applications (new fields)
-- Experimental validations (test the predictions)
-
-### **💬 Discuss:**
-- [Open an issue](../../issues) with questions
-- [Start a discussion](../../discussions) to share insights
-- Share how you're using Baskaboo
-
----
-
-## **📊 Project Status**
-
-**Phase 1 (Complete):** ✅ Theory development, cross-AI validation  
-**Phase 2 (Current):** 🔄 Documentation, practical tools  
-**Phase 3 (Next):** 🔜 Scientific testing, community building  
-**Phase 4 (Future):** 💫 Integration, real-world applications
 
 ---
 
