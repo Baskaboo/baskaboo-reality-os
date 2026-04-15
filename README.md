@@ -23,6 +23,8 @@ Baskaboo invites those who are interested to look at reality through a single, c
 >
 > 🧩 **Reality has a Code.** Use the [CENTRAL_EQUATION.md](./CENTRAL_EQUATION.md) to debug your life.
 > ** Use the [SIMULATION_LAYER.md](./SIMULATION_LAYER.md) to ....
+> > ** Use the [SIMULATION_LAYER_NEW.md](./SIMULATION_LAYER_NEW.md) to ....
+
 
 ---
 
