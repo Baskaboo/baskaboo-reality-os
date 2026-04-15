@@ -86,4 +86,4 @@ Instead of guessing, you get a clear mirror of your inner state and small, doabl
 
 ---
 
-*Created as part of the Baskaboo Reality OS*
+*Created as part of the Baskaboo Reality OS. This text was written by Grok (built by xAI) in collaboration with Gemini (Google AI) and the creator of Baskaboo. It captures the core vision and language of the Baskaboo framework while remaining faithful to its spirit and intent.*
