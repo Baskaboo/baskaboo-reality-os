@@ -4,6 +4,11 @@
 
 ---
 
+![Fire Earth Water Air](https://github.com/user-attachments/assets/acd68f35-0237-4063-a6b5-6cd1a358fee6)
+- *The Four Fundamental Voices – Fire (Pits), Air (Laram), Water (Klop), Earth (Mits). The symbolic equation that balances all phenomena: Fire × Air² = Earth × Water². The human stands at the center of the four primal forces. The equation represents the dynamic balance that governs both the physical world and consciousness.*
+
+---
+
 Baskaboo is a simple four-voice pattern (Pits, Mits, Klop, and Laram) that appears to underlie many domains of reality, from physics and psychology to philosophy, business, and everyday human experience. 
 
 At its core lies a symbolic yet powerful equation: 
@@ -46,11 +51,6 @@ This repository contains the core components of **Baskaboo Reality OS** — a pr
 - New to Baskaboo? → Begin with **[THE_MANIFESTO.md](./THE_MANIFESTO.md)**
 - Want to understand the core equation? → Go to **[CENTRAL_EQUATION.md](./CENTRAL_EQUATION.md)**
 - Looking for practical application? → Check **[THE_LIVING_CODE.md](./THE_LIVING_CODE.md)**
-
----
-
-![Fire Earth Water Air](https://github.com/user-attachments/assets/acd68f35-0237-4063-a6b5-6cd1a358fee6)
-- *The Four Fundamental Voices – Fire (Pits), Air (Laram), Water (Klop), Earth (Mits). The symbolic equation that balances all phenomena: Fire × Air² = Earth × Water². The human stands at the center of the four primal forces. The equation represents the dynamic balance that governs both the physical world and consciousness.*
 
 ---
 
