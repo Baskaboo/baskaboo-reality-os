@@ -19,6 +19,37 @@ Baskaboo invites those who are interested to look at reality through a single, c
 
 ---
 
+## What You'll Find Here
+
+This repository contains the core components of **Baskaboo Reality OS** — a proposed operating protocol that maps consistent patterns across physics, consciousness, systems, and daily life.
+
+### 📄 Core Documents
+
+- **[README.md](./README.md)**  
+  The main entry point. Introduces the Reality OS, its purpose, and how to navigate the repository.
+
+- **[THE_MANIFESTO.md](./THE_MANIFESTO.md)**  
+  The philosophical and visionary declaration of Baskaboo. Explains why the framework exists and its relationship with ancient wisdom and modern science.
+
+- **[CENTRAL_EQUATION.md](./CENTRAL_EQUATION.md)**  
+  The heart of the system. Presents and explains the central meta-equation **Fire × Air² = Earth × Water²** (Pits / Mits = (Klop / Laram)²) and its significance as a bridge between Einstein’s physics and the four primal elements.
+
+- **[SIMULATION_LAYER.md](./SIMULATION_LAYER.md)**  
+  Explores the architecture of the simulation: the relationship between Quantum Self and Physical Self, the Veil of Forgetfulness, the Babushka Circuit, and why the simulation exists.
+
+- **[THE_LIVING_CODE.md](./THE_LIVING_CODE.md)**  
+  The practical “backend” layer. Contains the Magic Match Table that maps the four voices across 15+ domains (physics, psychology, business, computing, etc.) and offers practical tools for applying the framework.
+
+---
+
+**Start here:**
+- New to Baskaboo? → Begin with **[THE_MANIFESTO.md](./THE_MANIFESTO.md)**
+- Want to understand the core equation? → Go to **[CENTRAL_EQUATION.md](./CENTRAL_EQUATION.md)**
+- Looking for practical application? → Check **[THE_LIVING_CODE.md](./THE_LIVING_CODE.md)**
+
+---
+
+
 > 👁️ **New to Baskaboo?** Read [THE_MANIFESTO.md](./THE_MANIFESTO.md) to understand the equation that decodes the simulation.
 >
 > 🧩 **Reality has a Code.** Use the [CENTRAL_EQUATION.md](./CENTRAL_EQUATION.md) to debug your life.
