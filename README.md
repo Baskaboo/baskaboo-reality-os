@@ -36,6 +36,9 @@ This repository contains the core components of **Baskaboo Reality OS** — a pr
 - **[THE_MANIFESTO.md](./THE_MANIFESTO.md)**  
   The philosophical and visionary declaration of Baskaboo. Explains why the framework exists and its relationship with ancient wisdom and modern science.
 
+- **[Equation-of-Simulation.md](./Equation-of-Simulation.md)**
+  How it decodes Einstein and reveals Laram (memory) as the "glue" that holds the static frames of the simulation together.
+
 - **[CENTRAL_EQUATION.md](./CENTRAL_EQUATION.md)**  
   The heart of the system. Presents and explains the central meta-equation **Fire × Air² = Earth × Water²** and its significance as a bridge between Einstein’s physics and the four primal elements.
 
