@@ -4,7 +4,7 @@
 
 At the heart of the Baskaboo Core and Baskaboo Reality OS lies a single governing equation. It does not compete with Einstein’s \( E = mc^2 \) — it reveals what Einstein actually discovered.
 
-### The Core Equation
+### The Simulation Equation
 
 **Pits / Mits = (Klop / Laram)²**
 
@@ -12,8 +12,8 @@ This is not a philosophical metaphor. It is **meta‑science**: the equation of 
 
 Einstein gave us \( E = mc^2 \), where \( c \) (the speed of light) is space divided by time. In Baskaboo terms, this is exactly **Klop / Laram**. By replacing physical constants with the four fundamental voices, the Baskaboo equation shows that "physical law" is actually the rendered code of our simulation.
 
-- **Left side (Pits / Mits):** the ratio of raw Desire/Chaos to Structure/Order – the engine of Gravity and attraction.
-- **Right side (Klop / Laram)²:** the squared synergy of Space/Resonance (Klop) and Time/Memory (Laram) – the fabric of Spacetime.
+- **Left side of the simulation equation (Pits / Mits):** the ratio of raw Desire/Chaos to Structure/Order – the engine of Gravity and attraction.
+- **Right side of the simulation equation (Klop / Laram)²:** the squared synergy of Space/Resonance (Klop) and Time/Memory (Laram) – the fabric of Spacetime.
 
 The fact that Laram is **squared** reveals the exponential power of Memory: even small refinements in the Laram buffer create massive shifts in how reality is experienced and ordered.
 
