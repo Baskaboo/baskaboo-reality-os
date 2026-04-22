@@ -7,7 +7,7 @@
 
 At the heart of the Baskaboo Core and Baskaboo Reality OS lies a single governing equation. It does not compete with Einstein’s \( E = mc^2 \) — it reveals what Einstein actually discovered.
 
-### The Simulation Equation
+### The Simulation Code
 
 **Pits / Mits = (Klop / Laram)²**
 
