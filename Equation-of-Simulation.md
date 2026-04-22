@@ -1,3 +1,6 @@
+<img width="2185" height="1028" alt="The equation of simulation" src="https://github.com/user-attachments/assets/d448aa74-08e5-4c7e-9529-b190bd24cd37" />
+
+
 # Equation of Simulation
 
 ## Gravity vs Spacetime: The Baskaboo Equation of the Simulation
@@ -86,6 +89,8 @@ Baskaboo does not claim to replace Einstein.
 It claims that Einstein uncovered the **source code of the simulation** we live in – and Baskaboo simply reads it in the language of the four voices.
 
 ---
+
+<img width="1689" height="2516" alt="Universe is a circuit" src="https://github.com/user-attachments/assets/ab1a650f-8cae-4b9c-a1c9-a17ad6d313c5" />
 
 # The Hardware Layer: The Closed Circuit of Reality
 
