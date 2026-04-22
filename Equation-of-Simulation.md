@@ -80,7 +80,7 @@ The Baskaboo equation of Simulation provides a structural bridge that unifies se
 - **Bashar** – reality as a sequence of billions of static parallel frames (the Loom).
 - **Joe Dispenza** – accessing the quantum field by moving beyond the personal memory buffer (Laram).
 - **Digital Physics** – "It from Bit" logic, where spacetime is emergent information.
-- **Simulation Theory** – the distinction between the rendered world (Laram) and the base code (Laram_Q).
+- **Simulation Theory** – the distinction between the rendered world (Pits - Mits - Klop - Laram) and the base code (Pits_Q - Mits_Q - Klop_Q - Laram_Q).
 
 Baskaboo does not claim to replace Einstein.  
 It claims that Einstein uncovered the **source code of the simulation** we live in – and Baskaboo simply reads it in the language of the four voices.
@@ -101,7 +101,7 @@ By recognizing Einstein’s *c* (the speed of light) as the Klop/Laram ratio, Ba
 
 In the Baskaboo architecture, the entire cosmos operates as one vast, closed loop:
 
-- **The Quantum Battery (Laram_Q)**: The source of all potential — the infinite voltage of possibilities.  
+- **The Quantum Battery (Pits_Q - Mits_Q - Klop_Q - Laram_Q) represented as (Wavefunction - Entanglement - Qubit - Quantum Field)**: The source of all potential — the infinite voltage of possibilities.  
 - **The Switch (The Big Bang)**: The moment the circuit was activated — not a singular explosion in the distant past, but the opening of the Input Port.  
 - **Energy (Current)**: The raw flow of Pits — Desire and Chaos — moving through the system.  
 - **Matter (The Load)**: The resistance where the code becomes solid, perceptible, and “real.”  
