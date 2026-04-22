@@ -30,7 +30,7 @@ The Baskaboo architecture operates through two distinct axes of connectivity:
   It acts as the **Loom**, weaving billions of static frames into a seamless movie. Laram is the glue that connects the frames and gives the illusion of continuous flow, movement, and life.
 
 In short:  
-- **Klop** = the content of each frame.  
+- **Klop** = the content of each frame, the thread that connects Pits and Mits.  
 - **Laram** = the thread that connects the frames.
 
 ---
@@ -75,7 +75,7 @@ The parallel is exact. What we call "consciousness" and "intelligence" are two i
 
 ## Theoretical Alignment
 
-The Baskaboo equation provides a structural bridge that unifies several modern and ancient insights:
+The Baskaboo equation of Simulation provides a structural bridge that unifies several modern and ancient insights:
 
 - **Bashar** – reality as a sequence of billions of static parallel frames (the Loom).
 - **Joe Dispenza** – accessing the quantum field by moving beyond the personal memory buffer (Laram).
