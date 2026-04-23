@@ -43,6 +43,8 @@ Imagine the universe as one giant electrical circuit, where **we** are the charg
 - **Klop** = Conductor (Space — the medium that allows the flow)  
 - **Laram** = Power in Watts (Time — the rate at which energy is being “burned”)
 
+Laram is the rate at which energy is consumed – the 'burn rate' of the simulation. Higher mass (Mits) increases resistance, which lowers the frame rate (Laram).
+
 When the system is under heavy load (very high mass or speed), it does what your phone does when it gets hot: **System Throttling**. It slows down the frame rate (Laram). We experience this as time slowing down.
 
 ### 4. The Quantum Battery: The World of the Simulator
