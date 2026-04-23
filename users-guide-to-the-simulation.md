@@ -70,4 +70,4 @@ It is created inside the mind and consciousness of the Character — that is, **
 When we understand the code of Baskaboo, we stop being passive players in the game.  
 We begin to become **conscious operators** of our own Reality OS.
 
-And that may be the most exciting thing that can happen to a human being
+And that may be the most exciting thing that can happen to a human being.
