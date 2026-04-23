@@ -1,3 +1,6 @@
+
+<img width="1707" height="2537" alt="The Manual of Simulation" src="https://github.com/user-attachments/assets/f7fbbd5d-78dd-410f-a94e-e513bff13d3e" />
+
 # The User’s Guide to the Simulation
 
 In recent years, more and more people — from philosophers and scientists to Elon Musk — have been discussing a fascinating idea: that we are living inside a **simulation**.  
