@@ -54,6 +54,8 @@ In the Simulator itself, this distinction disappears. Thought and action, inform
 
 ### 4. The Great Circuit – The Cycle of Consciousness
 
+> Pits (Want) → Mits (Must navigate) → Klop (Live/experience) → Laram (Remember & Return) → Source integrates → New Pits (upgraded)
+
 Reality operates as a closed circuit designed for the evolution of consciousness. We enter with Want and temporary forgetting, we experience friction and growth through Must and Live, and we exit by Remembering and Returning what we learned.
 
 This loop is the fundamental mechanism of existence.
