@@ -30,6 +30,20 @@ The same code manifests differently depending on the realm:
 | **Klop**           | Space / Connection    | Neutron               | Entanglement           |
 | **Laram**          | Time / Memory         | [Free Electron](https://github.com/Baskaboo/baskaboo-lab/blob/main/The-Manifesto-of-the-Free-Electron.md)         | Wavefunction           |
 
+
+> **Note on the Magic Match Table**
+> The correspondences between Baskaboo archetypes and physical elements
+> (Pits = Electron, Mits = Proton, Klop = Neutron, Laram = Free Electron)
+> are not poetic metaphors or intuitive associations.
+> They are the result of systematic study and analysis of the properties
+> of each archetype and each physical element — examined independently
+> and then mapped for structural alignment.
+>
+> The full documentation and reasoning behind each correspondence
+> is available here:
+> [Magic Match Table →](https://github.com/Baskaboo/baskaboo-core/tree/main/04_MAGIC_MATCH_TABLE)
+
+
 ### 3. Hardware vs Software in the Simulation
 
 In the world we experience, the code appears split into two layers:
