@@ -42,6 +42,9 @@ This repository contains the core components of **Baskaboo Reality OS** — a pr
 - **[users-guide-to-the-simulation.md](./users-guide-to-the-simulation.md)**
     A clear, practical User’s Guide to the Simulation we live in, translating Einstein’s equations through the four voices of Baskaboo.
 
+- **[Architecture-of-the-simulation.md](./Architecture-of-the-simulation.md)**
+    Reality is the Simulator forgetting its nature, to experience its potential.
+
 - **[CENTRAL_EQUATION.md](./CENTRAL_EQUATION.md)**  
   The heart of the system. Presents and explains the central meta-equation **Fire × Air² = Earth × Water²** and its significance as a bridge between Einstein’s physics and the four primal elements.
 
