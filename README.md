@@ -9,16 +9,13 @@
 
 ---
 
-Baskaboo is a simple four-voice pattern (Pits, Mits, Klop, and Laram) that appears to underlie many domains of reality, from physics and psychology to philosophy, business, and everyday human experience. 
+Baskaboo is a simple four-voice pattern (Pits, Mits, Klop, and Laram) that appears to underlie many domains of reality, from physics and psychology to philosophy, business, and everyday human experience.
 
-At its core lies a symbolic yet powerful equation: 
-**Fire × Air² = Earth × Water²** (or in Baskaboo terms: **Pits / Mits = (Klop / Laram)²**).
+At its core lies a symbolic yet powerful equation: **Fire × Air² = Earth × Water²** (or in Baskaboo terms: **Pits / Mits = (Klop / Laram)²**). This equation reveals how memory (Laram) acts as the invisible glue that holds the static frames of the simulation together, creating the illusion of continuous flow and time.
 
-Together, these four voices form a closed, living circuit between the **Quantum World** (the power source) and the **Physical World** (the visible reality we experience). 
+Together, the four voices form a closed, living circuit between the Quantum World (the power source) and the Physical World (the visible reality we experience). The continuous Flip between the two realms is what we call existence.
 
-The continuous Flip between the two realms is what we call existence. 
-
-This framework works as a practical tool: a way to observe patterns, restore balance, and better understand the operating system that appears to run through all things — including ourselves. 
+This framework works as a practical tool – a way to observe patterns, restore balance, and better understand the operating system that appears to run through all things, including ourselves. For those who wish to explore further, the simulation architecture is laid out in three complementary layers: the equation that decodes Einstein, a user‑friendly guide to simulation mechanics (frame rates, the quantum battery, and time dilation), and the core master table that shows how the same code runs through hardware, software, and the Simulator itself.
 
 Baskaboo invites those who are interested to look at reality through a single, consistent lens.
 
