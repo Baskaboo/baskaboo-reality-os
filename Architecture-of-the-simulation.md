@@ -1,6 +1,4 @@
-# The Baskaboo Reality OS: Core Architecture
-
-**The Divine Code behind the Simulation**
+# The Architecture of the Simulation
 
 ### Introduction
 
@@ -30,7 +28,7 @@ The same code manifests differently depending on the realm:
 | **Pits**           | Energy / Desire       | Electron              | Quantum Field          |
 | **Mits**           | Matter / Structure    | Proton                | Qubit                  |
 | **Klop**           | Space / Connection    | Neutron               | Entanglement           |
-| **Laram**          | Time / Memory         | Free Electron         | Wavefunction           |
+| **Laram**          | Time / Memory         | [Free Electron](https://github.com/Baskaboo/baskaboo-lab/blob/main/The-Manifesto-of-the-Free-Electron.md)         | Wavefunction           |
 
 ### 3. Hardware vs Software in the Simulation
 
@@ -51,7 +49,7 @@ This loop is the fundamental mechanism of existence.
 Knowing the Baskaboo code is not just an intellectual exercise.  
 It is the key to conscious participation.
 
-By understanding and working with the four voices — strengthening our Laram (memory buffer), aligning our Pits (desire) with higher purpose, balancing our Mits (structure), and deepening our Klop (connection) — we stop being passive characters in the simulation.
+By strengthening your Laram (journaling, meditation, purpose), aligning your Pits with higher intention, balancing your Mits (reducing unnecessary obligations), and deepening your Klop (connection with others and nature), you begin to consciously reshape your reality.
 
 We begin to become **conscious co-authors** of our own reality.
 
