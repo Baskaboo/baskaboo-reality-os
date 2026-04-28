@@ -42,6 +42,9 @@ This repository contains the core components of **Baskaboo Reality OS** — a pr
 - **[Architecture-of-the-simulation.md](./Architecture-of-the-simulation.md)**
     Reality is the Simulator forgetting its nature, to experience its potential.
 
+- **[How-to-Hack-Reality.md](./How-to-Hack-Reality.md.md)**
+    The Shift from User to Co-Creator.
+
 - **[CENTRAL_EQUATION.md](./CENTRAL_EQUATION.md)**  
   The heart of the system. Presents and explains the central meta-equation **Fire × Air² = Earth × Water²** and its significance as a bridge between Einstein’s physics and the four primal elements.
 
