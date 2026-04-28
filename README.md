@@ -45,6 +45,9 @@ This repository contains the core components of **Baskaboo Reality OS** — a pr
 - **[How-to-Hack-Reality.md](./How-to-Hack-Reality.md)**
     The Shift from User to Co-Creator.
 
+- **[Einstein_Inside_Baskaboo_Outside.md](./Einstein_Inside_Baskaboo_Outside.md)**
+    A bridge between traditional Physics and Simulation Theory: Treating Einstein's Relativity as the 'Physics Engine' inside the Baskaboo Reality OS.
+
 - **[CENTRAL_EQUATION.md](./CENTRAL_EQUATION.md)**  
   The heart of the system. Presents and explains the central meta-equation **Fire × Air² = Earth × Water²** and its significance as a bridge between Einstein’s physics and the four primal elements.
 
