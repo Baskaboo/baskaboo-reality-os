@@ -7,6 +7,7 @@ To "hack" reality using **The Baskaboo Equation**, you must first realize that y
 The Operational Equation:
 
 # *Pits x Laram² = Mits x Klop²* 
+*or Energy x Time² = Matter x Space²*
 
 ---
 
