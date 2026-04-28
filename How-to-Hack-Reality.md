@@ -65,5 +65,5 @@ To use the equation, you must identify which "Voice" you are interacting with. H
 ### 🔑 Key Insight:
 The **Laram** variable is your **"Return to Source"** button. It is the only variable that can be "squared" ($Laram^2$) through focused memory and frequency, allowing you to override the "Hard" code of **Mits**.
 
-*For the full documentation, search for the **[Magic-Match-Table.md](./Magic-Match-Table.md)**.*
+*For the full documentation, search for the **[`baskaboo-4-voices`](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/Magic-Match-Table.md)**.*
 
