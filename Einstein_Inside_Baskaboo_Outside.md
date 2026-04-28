@@ -1,4 +1,4 @@
-# Einstein Inside Baskaboo Outside
+# Einstein Inside, Baskaboo Outside
 
 ## Introduction: From Skepticism to Meta-Science
 
