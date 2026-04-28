@@ -1,6 +1,6 @@
 # How to Hack Reality using a simple equation
 
-To "hack" reality using **Perspective B**, you must first realize that you are not interacting with objects, but with the **voices** that compose them.
+To "hack" reality using **The Baskaboo Equation**, you must first realize that you are not interacting with objects, but with the **voices** that compose them.
 
 ---
 
