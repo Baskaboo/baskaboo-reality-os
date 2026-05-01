@@ -1,8 +1,7 @@
 
 # How to Hack Reality Using Einstein’s Equation
 
-
-<img width="1672" height="941" alt="Baskaboo and Einstein in the Castle of Methoni" src="https://github.com/user-attachments/assets/f50ff836-7b78-4592-bb89-d495bdd9698a" />
+<img width="1672" height="941" alt="Baskaboo and Einstein in Methoni" src="https://github.com/user-attachments/assets/1e8f37ee-92ab-40f6-9819-1883adc1d32e" />
 
 ---
 
