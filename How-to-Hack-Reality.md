@@ -1,6 +1,8 @@
+
 # How to Hack Reality Using Einstein’s Equation
 
-<img width="2409" height="921" alt="How to hack Reality 2" src="https://github.com/user-attachments/assets/c01abf80-e4f6-4952-92bf-a45951c2ce4c" />
+
+<img width="1672" height="941" alt="Baskaboo and Einstein in the Castle of Methoni" src="https://github.com/user-attachments/assets/f50ff836-7b78-4592-bb89-d495bdd9698a" />
 
 ---
 
@@ -35,6 +37,10 @@ By interpreting Einstein’s work through the lens of Simulation Theory, we find
 *   **Right Side (Physical/Concrete):** Your "Dense" side.
 
 **The Hack:** If you modify the variables on the **Left Side**, the **Right Side** must follow to maintain the balance of the equation.
+
+---
+
+<img width="2409" height="921" alt="How to hack Reality 2" src="https://github.com/user-attachments/assets/c01abf80-e4f6-4952-92bf-a45951c2ce4c" />
 
 ---
 
