@@ -46,7 +46,7 @@ By interpreting Einstein’s work through the lens of Simulation Theory, we find
 
 ## 3-Step Guide: How to Hack Your Reality
 
-### Step 1: Separate the Dense from the Sparse
+### Step 1: Separate the Dense (Matter/Space) from the Sparse (Energy/Time)
 Identify your problem. If it is a financial hurdle or a physical health issue, recognize it as **Matter/Space (Dense)**. Stop trying to fix it with physical force. Step back and acknowledge that this is just a "render" resulting from the current equation.
 
 ### Step 2: Focus on the Sparse (Energy/Time)
