@@ -1,5 +1,9 @@
 # How to Hack Reality Using Einstein’s Equation
 
+<img width="2409" height="921" alt="How to hack Reality 2" src="https://github.com/user-attachments/assets/c01abf80-e4f6-4952-92bf-a45951c2ce4c" />
+
+---
+
 If we are living in a simulation, then reality isn't made of "stuff"—it’s made of **variables**. Most of us spend our lives trying to change the physical world by pushing against it (Force), which is the least efficient way to interact with a "Reality OS."
 
 ## The 4 Components of Your Existence
