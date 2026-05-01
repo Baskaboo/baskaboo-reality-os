@@ -40,10 +40,6 @@ By interpreting Einstein’s work through the lens of Simulation Theory, we find
 
 ---
 
-<img width="1854" height="2799" alt="How to hack reality 2" src="https://github.com/user-attachments/assets/e1579a53-cb8d-428d-8eb5-53d031dd863d" />
-
----
-
 ## 3-Step Guide: How to Hack Your Reality
 
 ### Step 1: Separate your Dense (Matter/Space) from your Sparse (Energy/Time)
