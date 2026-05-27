@@ -60,6 +60,12 @@ This repository contains the core components of **Baskaboo Reality OS** — a pr
 - **[BASKABOO_BALANCE_TEST.md](./BASKABOO_BALANCE_TEST.md)**  
   A practical daily tool that helps you assess the balance of your four inner voices (Fire, Earth, Water, Air) and suggests small, actionable steps to restore harmony in your life.
 
+
+### 📄 For Developers
+
+- **[REALITY_OS_CORE.md](./REALITY_OS_CORE.md)**  
+  System blueprints and foundational kernel logic for RealityOS. Turning the 4-level scale-invariant Baskaboo data pump into production-ready software architecture.
+
 ---
 
 **Recommended Starting Points:**
