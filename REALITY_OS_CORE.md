@@ -154,7 +154,7 @@ The transformation of data from the highly parallelized multi-threaded matrix (`
 * **The Free Electron Catalyst:** Within this hardware loop, the **Free Electron** acts as the dynamic runtime handler assigned to the `LaramCondenser` class. It destabilizes localized structural data constraints, allows information to acquire complex phase ($i \cdot H$), and prevents information loss during scale transitions.
 
 ### Laboratory Falsification Matrix
-The computational efficiency and zero-leakage benchmarks of the RealityOS integrity loop are actively falsifiable via the empirical protocol outlined in the [Detector Array Validation Model](https://github.com). If quantum decoherence testing through an atomic lattice reflects standard thermodynamic linear dissipation, the structural validity of RealityOS is falsified. If it obeys the strict quadratic transformation, the architecture stands verified.
+The computational efficiency and zero-leakage benchmarks of the RealityOS integrity loop are actively falsifiable via the empirical protocol outlined in the [Detector Array](https://github.com/Baskaboo/baskaboo-core/blob/main/CALL_FOR_EXPERIMENTATION.md). If quantum decoherence testing through an atomic lattice reflects standard thermodynamic linear dissipation, the structural validity of RealityOS is falsified. If it obeys the strict quadratic transformation, the architecture stands verified.
 
 
 ---
