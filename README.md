@@ -33,6 +33,9 @@ This repository contains the core components of **Baskaboo Reality OS** — a pr
 - **[THE_MANIFESTO.md](./THE_MANIFESTO.md)**  
   The philosophical and visionary declaration of Baskaboo. Explains why the framework exists and its relationship with ancient wisdom and modern science.
 
+- **[The-World-of-1-and-the-World-of-phi.md](./The-World-of-1-and-the-World-of-phi.md)**  
+  An integrated introduction to the Baskaboo Reality OS. It presents the four Voices, the two worlds (φ and 1), and the core relation that connects them, written as a precise yet readable framework for first-time readers.
+
 - **[Equation-of-Simulation.md](./Equation-of-Simulation.md)**
   How it decodes Einstein and reveals Laram (memory) as the "glue" that holds the static frames of the simulation together.
 
