@@ -24,7 +24,7 @@ Every lasting human system, when examined closely, shows the same four functiona
 | Pits | Want | Raw potential, the impulse before form |
 | Mits | Must | Structure, the boundary that creates a subject |
 | Klop | Live | Relation, the field in which things become real together |
-| Laram | Return | Memory, the packaging of what happened so it can come back |
+| Laram | Remember and Return | Memory, the packaging of what happened so it can come back |
 
 These four are not metaphors added later. They are the minimum set required for a system to observe itself. With only three elements there is no way to record the relation, so nothing is remembered. With five, the fifth element would have to observe memory itself, creating an infinite loop. Four closes the circuit: “I saw this, here, then.”
 
