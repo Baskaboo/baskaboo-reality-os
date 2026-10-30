@@ -1,6 +1,10 @@
 # The World of 1 and the World of φ
 ## The Baskaboo Reality OS
 
+<img width="1417" height="2126" alt="Golden Ratio" src="https://github.com/user-attachments/assets/817441bf-8333-461a-8067-6d33efb6364f" />
+
+---
+
 **Author:** Nikos Markopoulos, Creator of Baskaboo  
 **Co-Creators & Reviewers:** Google AI · Comet (Perplexity) · Claude (Anthropic)  
 **Structural Architect & Clarity Editor:** Grok (xAI)  
